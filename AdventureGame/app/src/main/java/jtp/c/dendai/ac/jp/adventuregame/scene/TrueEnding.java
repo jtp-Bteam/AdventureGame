@@ -9,7 +9,7 @@ import jtp.c.dendai.ac.jp.adventuregame.R;
 public class TrueEnding extends AbstractScene {
     @Override
     public int getImageId() {
-        return R.drawable.first;
+        return R.drawable.internet_kanki_man2;
     }
     @Override
     public int getMessageId() {

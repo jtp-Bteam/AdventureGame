@@ -9,7 +9,7 @@ import jtp.c.dendai.ac.jp.adventuregame.R;
 public class Chapter3_lose extends AbstractScene {
     @Override
     public int getImageId() {
-        return R.drawable.first;
+        return R.drawable.pose_zasetsu;
     }
     @Override
     public int getMessageId() {

@@ -9,7 +9,7 @@ import jtp.c.dendai.ac.jp.adventuregame.R;
 public class Chapter3_win extends AbstractScene {
     @Override
     public int getImageId() {
-        return R.drawable.first;
+        return R.drawable.buisnessman_money_niyake;
     }
     @Override
     public int getMessageId() {
